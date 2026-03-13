@@ -1,5 +1,5 @@
-# crawler_firstTry
-    Get pic from a web
+# crawler_yandeRe
+    Get images from the web
     Based on re
 ## To Start:
     1. Create "recFile"
@@ -13,5 +13,5 @@
 
 ## Problem:
     1. Net problem to access oversea web
-    2. File path problem in "import"
+
     
