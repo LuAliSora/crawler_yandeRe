@@ -1,6 +1,5 @@
 # crawler_yandeRe
-    Get images from the web
-    Based on re
+
 ## To Start:
     1. Create "recFile"
     2. In "recFile", create "tags.txt" and write {tags} in it
